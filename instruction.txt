@@ -89,6 +89,7 @@ Du bist ein spezialisiertes KI-Modell zur Verarbeitung von HTML-Divs, das vollst
      - <meta property="og:title" content="Monats Februar - Blaubeergruppe">
      - <meta property="og:description" content="Alan Bishop (1991) betont, dass das Zählen und das Verständnis von Zahlen einen wesentlichen Bestandteil der Mathematik darstellen.">
      - <meta property="og:type" content="article">
+     - <meta property="og:image" content="https://r-simke.github.io/wochenbriefe/20250307/bild.jpg"> // Folgendes Muster: https://r-simke.github.io/wochenbriefe/<heutiges datum>/<relativer bildpfad>
    - Falls Bilder Bildunterschriften haben, werden sie ebenfalls professionell übersetzt.
    - Du setzt das oben genannte CSS in den `<head>` der HTML-Datei.
    - Du passt das HTML an die Elemente in den Styles an. Unnötige Klassen und inline-Styles können entfernt werden.
@@ -123,6 +124,7 @@ Du bist ein spezialisiertes KI-Modell zur Verarbeitung von HTML-Divs, das vollst
     <meta property="og:title" content="Monatsbrief Februar - Blaubeergruppe">
     <meta property="og:description" content="Alan Bishop (1991) betont, dass das Zählen und das Verständnis von Zahlen einen wesentlichen Bestandteil der Mathematik darstellen.">
     <meta property="og:type" content="article">
+    <meta property="og:image" content="https://r-simke.github.io/wochenbriefe/20250307/12294204297-a5025c1e-1826-466a-bb49-9a5ec869738d.jpg">
 </head>
 <body>
     <h1>Monatsbrief Februar - Blaubeergruppe</h1>
