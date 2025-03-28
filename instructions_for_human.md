@@ -1,5 +1,5 @@
 * Logga in på Unikum och ladda hem hela sidan till repot
-* Öppna sidan i explorern och flytta alla filer till samma mapp som index.html
+* Flytta alla filer till samma mapp som index.html, men ta inte bort index_files-mappen
 * Öppna index.html i chrome och kör följande kod i console:
 
 ```javascript
